@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "326CN7K7KT.com.kingsoft.www.office.wpsoffice.debug",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
